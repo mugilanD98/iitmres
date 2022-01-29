@@ -1103,7 +1103,7 @@ scrdata=pd.DataFrame(data,columns=['co2','solar','wind','location'])
 # In[102]:
 
 
-scrdata
+print(scrdata)
 
 
 # In[ ]:
