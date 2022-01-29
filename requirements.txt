@@ -4,3 +4,4 @@ requests
 mysql.connector
 pymysql
 sqlalchemy
+lxml
