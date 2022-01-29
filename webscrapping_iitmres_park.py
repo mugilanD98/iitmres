@@ -5,6 +5,7 @@
 
 
 from bs4 import BeautifulSoup
+import lxml
 
 
 # In[2]:
