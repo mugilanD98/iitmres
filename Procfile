@@ -1,0 +1,1 @@
+worker: python Scripts/webscrapping_iitmres_park.py
