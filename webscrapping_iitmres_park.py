@@ -1091,7 +1091,7 @@ data=[renew_india,renew_Northern_Region,renew_chandigar,renew_Delhi,renew_Haryan
 # In[100]:
 
 
-data
+
 
 
 # In[101]:
